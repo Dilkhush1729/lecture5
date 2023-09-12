@@ -1,0 +1,56 @@
+h1 {
+    font-size: 40px;
+    margin-left: 4.09%;
+    margin-right: 74%;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 0px 10px 10px 0px;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 30%;
+}
+
+.container {
+    width: 400px;
+    height: max-content;
+    display: flex;
+    gap: 30px;
+    margin-left: 4%;
+}
+
+.item {
+    width: 560px;
+    height: auto;
+    display: inline-block;
+    box-shadow: 0px 20px 20px 0px;
+    background-color: whitesmoke;
+
+}
+
+.text-box-margin {
+    margin-left: 40px;
+    color: rgb(173, 18, 18);
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+    margin-left: 40px;
+    margin-right: 20px;
+}
+
+.bottom-para {
+    margin-left: 40px;
+    margin-right: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+.image-bottom {
+    margin-left: 40px;
+    margin-right: 20px;
+    border-radius: 40%;
+}
+
+.my-image {
+    text-align: center;
+}
